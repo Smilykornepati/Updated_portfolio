@@ -1,6 +1,6 @@
 # Updated_portfolio
 Here's a updated version of my portfolio.
-Hope yoou like it!💥
+Hope you like it!💥
 Technologies:
               Frontend Web development.
               -> HTML
